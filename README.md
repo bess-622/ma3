@@ -1,7 +1,7 @@
 # 真相部落  有圖文 有音頻 有視頻 有真相<br>
 # 當前有效網址：<br>
 http://88.serveblog.net/<br>
-http://fug.cleansite.us/<br>
+http://33.39.is-a-therapist.com/<br>
 http://68.myftp.biz/<br>
 http://3.0800.ko.tl/<br>
 
