@@ -1,7 +1,7 @@
 # 真相部落  有圖文 有音頻 有視頻 有真相<br>
 # 當前有效網址：<br>
 http://3.04.dynathome.net/<br>
-http://33.39.is-a-therapist.com/<br>
+http://33.3.65g.us/<br>
 http://68.myftp.biz/<br>
 http://88.707.brinzart.com/<br>
 
