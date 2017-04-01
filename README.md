@@ -7,6 +7,10 @@
 <td>
 	<H4><a href="http://k25.modireaval.com/zx/">有圖文 有音頻 有視頻 有真相</a></H4>
 </td>
+<td>
+	<H1><a href="http://k25.modireaval.com/book/"> 内地看不到的电子书</a></H1>
+</td>
+
 </tr>
 </table>
 
