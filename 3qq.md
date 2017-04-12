@@ -2,18 +2,18 @@
 <tr>
 
 <td>
-	<H1><a href="http://a55.cispeaks.com/zx/">真相部落</a></H1>
+	<H1><a href="http://a55.u17.pulauintan.com/zx/">真相部落</a></H1>
 </td>
 <td>
-	<H4><a href="http://a55.cispeaks.com/zx/">有图文 有音频 有视频 有真相</a></H4>
+	<H4><a href="http://a55.u17.pulauintan.com/zx/">有图文 有音频 有视频 有真相</a></H4>
 </td>
 <td>
-	<H1><a href="http://a55.cispeaks.com/book/"> 内地看不到的禁书</a></H1>
+	<H1><a href="http://a55.u17.pulauintan.com/book/"> 内地看不到的禁书</a></H1>
 </td>
 </tr>
 </table>
 
- <div ><a href="http://a55.cispeaks.com/zx/bngcd/"><img src="http://a55.cispeaks.com/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
+ <div ><a href="http://a55.u17.pulauintan.com/zx/bngcd/"><img src="http://a55.u17.pulauintan.com/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
 
 <table>
 <tr>
