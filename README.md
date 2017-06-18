@@ -1,6 +1,5 @@
 
  <table border="1">
- <tr><td colspan="3"><div align="center"><H1>Google</H1></center></div></td></tr>
  <tr>
 	<td><a href="http://1688.hytd.bid/"><img src="下载.png" width="128" height="128" border="0" alt="1"></a></td>
 	<td><a href="http://1688.hytd.bid/"><img src="下载 (1).png" width="200" height="200" border="0" alt="2"></a></td>
