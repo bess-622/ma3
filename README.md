@@ -8,11 +8,6 @@
 			<H1 style="text-align:center;">中共六四屠殺實錄（1）血幕拉開</H1>
 		</td>
 	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-	</tr>
-
 </table>
 
 
