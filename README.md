@@ -1,8 +1,14 @@
 
-<table width="600" align="center">
+
+| # 中共六四屠殺實錄 |
+| :----: |
+
+
+
+<table width="800">
 	<tr>
 		<td align="center">
-			<div align="center"><H1>中共六四屠殺實錄（1）血幕拉開</H1></div>
+			<H1 style="text-align:cneter;">中共六四屠殺實錄（1）血幕拉開</H1>
 		</td>
 	</tr>
 </table>
